@@ -14,3 +14,10 @@ Copy the generated Target/DoubleSubmitCookiePattern.war file to conf/webapp/ fol
 # Run
 
 Start the Tomcat server and navigate to the broswer using this url :http://localhost:8080/DoubleSubmitCookiePattern/ 
+
+Secure Software Systems 
+Assignment 1
+Cross Site Request Forgery Protection - Synchronizer Token
+
+Username : admin
+Password : secret
